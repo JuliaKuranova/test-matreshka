@@ -20,6 +20,10 @@
   font-family: "Gilroy Regular";
   src: url("../../fonts/Gilroy-Regular.ttf");
 }
+@font-face {
+  font-family: "Futura";
+  src: url("../../fonts/FuturaPT-Medium.woff");
+}
 .l-5-10-300 {
   font-family: "Gilroy Light", "Arial";
   color: #505050;
@@ -130,7 +134,7 @@ body {
 
 .title {
   color: #505050;
-  font-family: "Gilroy Medium", "Arial";
+  font-family: "Gilroy Medium", "Futura";
   font-size: 32px;
   font-weight: 700;
 }

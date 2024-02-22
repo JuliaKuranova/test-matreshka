@@ -30,6 +30,11 @@
     src: url("../../fonts/Gilroy-Regular.ttf");
 }
 
+@font-face {
+    font-family: "Futura";
+    src: url("../../fonts/FuturaPT-Medium.woff");
+}
+
 // переменныеs
 
 //  * color 
@@ -174,7 +179,7 @@ body {
 
 .title {
     color: $text-grey-5;
-    font-family: "Gilroy Bold", "Arial";
+    font-family: "Gilroy Medium", "Futura";
     font-size: 32px;
     font-weight: 700;
 }
